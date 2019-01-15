@@ -76,13 +76,13 @@
                 }
             },
             "color": {
-                "value": "FFFFFF"
+                "value": "66ccff"
             },
             "shape": {
                 "type": "circle",
                 "stroke": {
                     "width": 0,
-                    "color": "#FFFFFF"
+                    "color": "#66ccff"
                 },
                 "polygon": {
                     "nb_sides": 5

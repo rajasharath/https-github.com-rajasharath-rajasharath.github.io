@@ -16,7 +16,7 @@
 footer p a:hover,
 .portfolio-icons li a i,
 .service-icons li a i {
-    color: #9600f4;
+    color: #ff9966;
 }
 
 .social-icons li a:hover,
@@ -49,12 +49,12 @@ footer p a:hover,
 .image-section .btn-lg,
 .social-icons li a,
 .portfolio-headline .btn-default {
-    background: #7100B7;
+    background: #ff9966;
 }
 
 /* primary color 3 */
 .sweep-icon a .fa {
-    color: #B649FF;
+    color: #ff9966;
 }
 
 /* secondary color */
@@ -63,7 +63,7 @@ footer p a:hover,
 }
 
 .sweep-layer h3 a:hover {
-    color: #00F2FF;
+    color: #000000;
 }
 
 /* Gradients */
