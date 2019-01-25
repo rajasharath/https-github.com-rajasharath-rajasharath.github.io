@@ -16,7 +16,7 @@
 footer p a:hover,
 .portfolio-icons li a i,
 .service-icons li a i {
-    color: #ff9966;
+    color: #2d96c6;
 }
 
 .social-icons li a:hover,
@@ -49,12 +49,12 @@ footer p a:hover,
 .image-section .btn-lg,
 .social-icons li a,
 .portfolio-headline .btn-default {
-    background: #ff9966;
+    background: #2d96c6;
 }
 
 /* primary color 3 */
 .sweep-icon a .fa {
-    color: #ff9966;
+    color: #2d96c6;
 }
 
 /* secondary color */

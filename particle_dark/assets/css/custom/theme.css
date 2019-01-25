@@ -509,7 +509,7 @@ header #st-logo img {
     .image-section h4 {
         line-height: 41px;
         font-size: 34px;
-        color: #ff9966;
+        color: #2d96c6;
         font-family: 'Source Sans Pro', sans-serif;
         font-weight: 300;
         font-style: italic;
@@ -591,7 +591,7 @@ header #st-logo img {
         height: 100px;
         padding: 25px 0;
         text-align: center;
-        background-color: #ff9966;
+        background-color: #2d96c6;
         color: #ffffff;
     }
 
@@ -760,7 +760,7 @@ header #st-logo img {
 .about-section {
     height: 880px;
     text-align: center;
-    background: #ff9966;
+    background: #2d96c6;
 }
 
 .about-text {
